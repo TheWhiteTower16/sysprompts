@@ -13,7 +13,7 @@ This repository has been created for the following objectives:
 
 ## Disclaimer
 
-This repository is for educational and research purposes only. I am not responsible for any misuse of the content herein. By using this repository, you agree to adhere to ethical standards and comply with applicable laws and regulations.
+This repository is for educational and research purposes only. I am not responsible for any misuse of this content. By using this repository, you agree to adhere to ethical standards and comply with applicable laws and regulations.
 
 ## Contact
 
