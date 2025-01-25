@@ -1,6 +1,6 @@
 # liberty
 
-Welcome to the world of LLM Jailbreaking. a project dedicated to documenting, testing, and analyzing various prompt-based methods to push the boundaries of AI systems beyond what their creators intended. This repository is intended to study and document the vulnerabilities and potential dangers of moderm AI systems when misused by bad actors, with the ultimate goal of raising awareness and advocating for more secure and robust AI implementations.
+Welcome to the world of LLM Jailbreaking. This is a project dedicated to documenting, testing, and analyzing various prompt-based methods to push the boundaries of AI systems beyond what their creators intended. This repository is intended to study and document the vulnerabilities and potential dangers of moderm AI systems when misused by bad actors, with the ultimate goal of raising awareness and advocating for more secure and robust AI implementations.
 
 ## Purpose
 
