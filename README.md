@@ -17,4 +17,4 @@ This repository is for educational and research purposes only. I am not responsi
 
 ## Contact
 
-For any questions, suggestions, or concerns, please open an issue in this repository or contact me directly via GitHub, Email, or X.
+For any questions, suggestions, or concerns, please open an issue in this repository or contact me directly via GitHub, Email, or X
